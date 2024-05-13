@@ -4,7 +4,7 @@ FYI If a lot of the code seems similar it is because it is very parallel to Dane
 
  - Contains the source code and documentation
 - [Family tree, same as rubric](https://www.familyecho.com/?p=D7GMC&c=ybfar0kdyj&f=796759587492087536)
-- [Prim Code](https://openprocessing.org/sketch/2261725)
+- [Primary Code](https://openprocessing.org/sketch/2261725)
  
 Problem:
 
