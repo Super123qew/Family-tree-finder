@@ -1,4 +1,6 @@
-# Family-tree-finder
+# Family-tree-finder (Justin, Karl, Cristian) if its not done by the time you look I tried my best
+
+FYI If a lot of the code seems similar it is because it is very parallel to Danes group they helped me (Justin) a lot in figuring out the algorithm for the problem
 
  - Contains the source code and documentation
 - [Family tree, same as rubric](https://www.familyecho.com/?p=D7GMC&c=ybfar0kdyj&f=796759587492087536)
